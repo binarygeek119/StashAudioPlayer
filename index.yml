@@ -6,6 +6,6 @@
   version: 0.1-2fe1898
   date: 2024-10-02 02:19:27
   path: stashAudioPlayer.zip
-  sha256: 704565c9cb9b5ca361986bc645d115b86a13f952359267dc3a78d4d4d45d1b73
+  sha256: 06516a12ca3924c03a7d0fb4c261a567e1b97e709b37e1cbc9a487362bad2a89
   requires:
     - CommunityScriptsUILibrary
